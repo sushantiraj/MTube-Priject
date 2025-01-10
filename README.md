@@ -1,2 +1,2 @@
-# MTube-Priject
-Fullstack project
+# MTube-Project
+Fullstack 
